@@ -10,3 +10,7 @@ github_username:  rcarr421
 show_excerpts: false 
 
 theme: minima
+---
+title: "My first blog post title"
+date: 2021-04-01
+---
