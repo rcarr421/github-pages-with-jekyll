@@ -1,2 +1,4 @@
-title: "Welcome to my blog"
+---
+title: "My first blog post title"
 date: 2021-04-01
+--
